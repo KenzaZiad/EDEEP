@@ -43,6 +43,6 @@ Ce projet, réalisé chez **EDEEP**, consiste en la conception et le développem
 Par exemple :
 
 ```markdown
-![Tableau de bord Power BI](lien_vers_image)
+![Conception Sous SolidWorks](https://github.com/KenzaZiad/EDEEP/blob/main/conception_all.jpeg)
 ![Carte de contrôle](lien_vers_image)
 ![Analyse de capabilité](lien_vers_image)
