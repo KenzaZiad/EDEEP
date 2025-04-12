@@ -37,12 +37,9 @@ Ce projet, réalisé chez **EDEEP**, consiste en la conception et le développem
 - Réduction significative du temps d'analyse et augmentation de la précision des résultats.
 - Amélioration tangible de la performance opérationnelle grâce à une prise de décision basée sur des données fiables et clairement visualisées.
 
-## 📷 Captures d’écran du projet
-*(Insérez ici vos images ou captures d’écran du projet : tableaux de bord Power BI, exemples de cartes de contrôle, analyses statistiques, etc.)*
-
-Par exemple :
-
-```markdown
+## 📷 Images du projet
+### Conception sous SOLIDWORKS:
 ![Conception Sous SolidWorks](https://github.com/KenzaZiad/EDEEP/blob/main/conception_all.jpeg)
-![Carte de contrôle](lien_vers_image)
-![Analyse de capabilité](lien_vers_image)
+### Project imprimé en utilisant une imprimante 3D:
+![Conception Sous SolidWorks](https://github.com/KenzaZiad/EDEEP/blob/main/produit_final.jpeg)
+
